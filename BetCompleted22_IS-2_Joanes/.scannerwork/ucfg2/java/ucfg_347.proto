@@ -1,0 +1,72 @@
+
+(domain.Quote#equals(Ljava/lang/Object;)Zg
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javan n("startingBlock*ß
+2g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javas
+ s("q
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javas s(
+""*Ÿ
+3g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javar r(ÏÌ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javar r(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+domain.Quote2
+getClass()ÖÓ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javar r(+
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+ojava.lang.Object2
+getClass()*
+2
+1*Î
+startingBlockg
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javan n( ¯
+¬
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javam m(
+
+%4"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Object™
+–
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javan n(
+ojava.lang.Object"__annotation*
+
+%4*
+3
+4*ß
+4g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javaq
+ q("q
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javaq q(
+""*¿
+1g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javau u(ž
+›
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javau u(
+qdomain.Quote"__id*
+
+ojava.lang.ObjectÛØ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javav
+ v(
+%2java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+domain.Quote2getQuoteNumber()ÞÛ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javav! v(3
+%3java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+
+qdomain.Quote2getQuoteNumber()"q
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javav v(4
+"":
+ojava.lang.ObjectB
+domain.Quote

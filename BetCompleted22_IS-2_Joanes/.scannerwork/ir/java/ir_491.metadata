@@ -1,0 +1,3 @@
+gui.MainGUI#getRdbtnNewRadioButton_1()Ljavax/swing/JRadioButton;
+javax.swing.JRadioButton#instance-init#
+javax.swing.JRadioButton#<init>(Ljava/lang/String;)V

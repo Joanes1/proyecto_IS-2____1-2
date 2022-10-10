@@ -1,0 +1,9 @@
+dataAccess.DataAccess#ApustuaEgin(Ldomain/User;Ljava/util/Vector;Ljava/lang/Double;Ljava/lang/Integer;)Z
+null
+domain.ApustuAnitza#<init>(LRegistered;Ljava/lang/Double;)V
+domain.ApustuAnitza#instance-init#
+java.util.Date#<init>()V
+domain.KirolEstatistikak#<init>(LRegistered;LSport;)V
+java.lang.Integer#equals(Ljava/lang/Object;)Z
+domain.KirolEstatistikak#instance-init#
+java.util.Date#instance-init#

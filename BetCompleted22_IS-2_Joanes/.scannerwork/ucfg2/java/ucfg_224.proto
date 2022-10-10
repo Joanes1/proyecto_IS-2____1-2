@@ -1,0 +1,96 @@
+
+3domain.Elkarrizketa#denakIrakurrita(Ldomain/User;)Zn
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javad d("6*Ì
+3n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javag g("x
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javag g(
+""*ê
+4n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaf) f(*€ÿ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaf) f(8
+%5java.lang.String"+domain.User#getUsername()Ljava/lang/String;*
+
+udomain.User2getUsername()∏
+µ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaf@ f(H
+%6java.util.Vector"__id*%*#
+domain.Elkarrizketa"
+
+messages∑
+¥
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaf@ f(O
+%7domain.Message"
+__arrayGet*
+
+%6java.util.Vector*
+""‹Ÿ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaf@ f(_
+%8domain.User"+domain.Message#getHartzailea()Ldomain/User;*
+
+%7domain.Message2getHartzailea()‹Ÿ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaf@ f(m
+%9java.lang.String"+domain.User#getUsername()Ljava/lang/String;*
+
+%8domain.User2getUsername()Å˛
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaf) f(n
+%10boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%5java.lang.String*
+
+%9java.lang.String2equals(Ljava/lang/Object;)*
+3
+6*Ω
+5n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaf f(∏
+µ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaf f(
+%2java.util.Vector"__id*%*#
+domain.Elkarrizketa"
+
+messages∑
+¥
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaf f(
+%3domain.Message"
+__arrayGet*
+
+%2java.util.Vector*
+"" «
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaf f(%
+%4boolean"domain.Message#isIrakurrita()Z*
+
+%3domain.Message2isIrakurrita()*
+4
+6*Û
+6n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javae e(∏
+µ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javae e(
+%0java.util.Vector"__id*%*#
+domain.Elkarrizketa"
+
+messages∫∑
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javae e( 	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()*
+5
+1*Ì
+1n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaj	 j("x
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Elkarrizketa.javaj j(
+"":
+udomain.UserB
+domain.Elkarrizketa

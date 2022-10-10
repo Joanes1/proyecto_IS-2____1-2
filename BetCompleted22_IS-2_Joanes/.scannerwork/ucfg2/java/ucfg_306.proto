@@ -1,0 +1,326 @@
+
+2gui.AdminGUI#getJContentPane()Ljavax/swing/JPanel;g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.java` `("3*∞W
+2g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javab b(öó
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javab b(
+%1javax.swing.JPanel"javax.swing.JPanel¨
+©
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javab b(
+%2"javax.swing.JPanel#<init>()V*
+
+%1javax.swing.JPanel∞
+≠
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javab b( 
+gui.AdminGUI"
+jContentPane"__id*
+
+%1javax.swing.JPanel∞
+≠
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javac c(
+%3javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPaneê
+ç
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javac c()
+%4java.awt.Color"__id*
+""ÜÉ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javac c(*
+
+%5void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%3javax.swing.JPanel*
+
+%4java.awt.Color2setBackground(Ljava/awt/Color;)∞
+≠
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javad d(
+%6javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPane˙˜
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javad d(
+
+%7void"7java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V*
+
+%6javax.swing.JPanel*
+""2#setLayout(Ljava/awt/LayoutManager;)∞
+≠
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javae e(
+%8javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPaneÀ
+»
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javae e($
+%9javax.swing.JLabel"1gui.AdminGUI#getLblNewLabel()Ljavax/swing/JLabel;*
+gui.AdminGUIúô
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javae e(%
+%10java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%8javax.swing.JPanel*
+
+%9javax.swing.JLabel2add(Ljava/awt/Component;)±
+Æ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javaf f(
+%11javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPane…
+∆
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javaf f(
+%12javax.swing.JButton"-gui.AdminGUI#getBoton3()Ljavax/swing/JButton;*
+gui.AdminGUIüú
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javaf f( 
+%13java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%11javax.swing.JPanel*
+
+%12javax.swing.JButton2add(Ljava/awt/Component;)±
+Æ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javag g(
+%14javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPane…
+∆
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javag g(
+%15javax.swing.JButton"-gui.AdminGUI#getBoton2()Ljavax/swing/JButton;*
+gui.AdminGUIüú
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javag g( 
+%16java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%14javax.swing.JPanel*
+
+%15javax.swing.JButton2add(Ljava/awt/Component;)±
+Æ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javah h(
+%17javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPaneœ
+Ã
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javah h(%
+%18javax.swing.JButton"3gui.AdminGUI#getBtnNewButton()Ljavax/swing/JButton;*
+gui.AdminGUIüú
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javah h(&
+%19java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%17javax.swing.JPanel*
+
+%18javax.swing.JButton2add(Ljava/awt/Component;)±
+Æ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javai i(
+%20javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPane–
+Õ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javai i(&
+%21javax.swing.JButton"4gui.AdminGUI#getBtnNewButton1()Ljavax/swing/JButton;*
+gui.AdminGUIüú
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javai i('
+%22java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%20javax.swing.JPanel*
+
+%21javax.swing.JButton2add(Ljava/awt/Component;)±
+Æ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javaj j(
+%23javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPane÷
+”
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javaj j(,
+%24javax.swing.JButton":gui.AdminGUI#getJButtonEmaitzaIpini()Ljavax/swing/JButton;*
+gui.AdminGUIüú
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javaj j(-
+%25java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%23javax.swing.JPanel*
+
+%24javax.swing.JButton2add(Ljava/awt/Component;)å
+â
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javal1 l(V
+%26java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetasß§
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javal1 l(t
+%27java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+
+%26java.util.ResourceBundle*
+GertaerakEzabatu2getString(Ljava/lang/String;)ùö
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javal) l(0
+%28javax.swing.JButton"javax.swing.JButton›
+⁄
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javal% l(u
+%29"/javax.swing.JButton#<init>(Ljava/lang/String;)V*
+
+%28javax.swing.JButton*
+
+%27java.lang.String¿
+Ω
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javal l(v.
+jButtonGertaerakEzabatujavax.swing.JButton"__id*
+
+%28javax.swing.JButtonë
+é
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javam) m(8
+%30java.awt.Color"__id*
+""ûõ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javam m(9
+%31void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*0
+.
+jButtonGertaerakEzabatujavax.swing.JButton*
+
+%30java.awt.Color2setForeground(Ljava/awt/Color;)ë
+é
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javan) n(3
+%32java.awt.Color"__id*
+""ûõ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javan n(4
+%33void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*0
+.
+jButtonGertaerakEzabatujavax.swing.JButton*
+
+%32java.awt.Color2setBackground(Ljava/awt/Color;)ìê
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javao1 o(?
+%34gui.AdminGUI$2"gui.AdminGUI$2®
+•
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javao- t(
+%35"java.lang.Object#<init>()V*
+
+%34gui.AdminGUI$2»≈
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javao t(
+%36void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*0
+.
+jButtonGertaerakEzabatujavax.swing.JButton*
+
+%34gui.AdminGUI$222addActionListener(Ljava/awt/event/ActionListener;)˚¯
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javau u(7
+%37void"#java.awt.Component#setBounds(IIII)V*0
+.
+jButtonGertaerakEzabatujavax.swing.JButton*2Ô*2|*2Ë*22setBounds(IIII)±
+Æ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javav v(
+%38javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPane≥∞
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javav v(,
+%39java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%38javax.swing.JPanel*0
+.
+jButtonGertaerakEzabatujavax.swing.JButton2add(Ljava/awt/Component;)±
+Æ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javaw w(
+%40javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPane“
+œ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javaw w((
+%41javax.swing.JButton"6gui.AdminGUI#getJButtonDesLogin()Ljavax/swing/JButton;*
+gui.AdminGUIüú
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javaw w()
+%42java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%40javax.swing.JPanel*
+
+%41javax.swing.JButton2add(Ljava/awt/Component;)±
+Æ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javax x(
+%43javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPane–
+Õ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javax x(&
+%44javax.swing.JButton"4gui.AdminGUI#getBtnNewButton2()Ljavax/swing/JButton;*
+gui.AdminGUIüú
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javax x('
+%45java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%43javax.swing.JPanel*
+
+%44javax.swing.JButton2add(Ljava/awt/Component;)±
+Æ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javay y(
+%46javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPane÷
+”
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javay y(,
+%47javax.swing.JButton":gui.AdminGUI#getBtnGertaerakKopiatu()Ljavax/swing/JButton;*
+gui.AdminGUIüú
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javay y(-
+%48java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%46javax.swing.JPanel*
+
+%47javax.swing.JButton2add(Ljava/awt/Component;)*
+1*ß
+3g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javaa a(∞
+≠
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.javaa a(
+%0javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPane*
+2
+1*©
+1g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.java{	 {(±
+Æ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.java{	 {(
+%49javax.swing.JPanel"__id*"* 
+gui.AdminGUI"
+jContentPane"Ü
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/AdminGUI.java{ {(
+
+%49javax.swing.JPanelB
+gui.AdminGUI

@@ -1,0 +1,78 @@
+
+*domain.Apustua#equals(Ljava/lang/Object;)Zi
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaX X("startingBlock*ã
+2i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.java] ]("s
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.java] ](
+""*§
+3i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.java\ \(
+ÓÐ
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.java\ \(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+domain.Apustua2
+getClass()ØÕ
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.java\ \(%
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+ojava.lang.Object2
+getClass()*
+2
+1*Ô
+startingBlocki
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaX X( ±
+®
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaW W(
+
+%5"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Object›
+˜
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaX X(
+ojava.lang.Object"__annotation*
+
+%5*
+3
+4*ã
+4i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaZ
+ Z("s
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaZ Z(
+""*Ü
+1i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.java_ _(¢
+Ÿ
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.java_ _(
+adomain.Apustua"__id*
+
+ojava.lang.Objectåâ
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.java`	 `( 
+%2java.lang.Integer"4domain.Apustua#getApostuaNumber()Ljava/lang/Integer;*
+domain.Apustua2getApostuaNumber()èå
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.java`( `(<
+%3java.lang.Integer"4domain.Apustua#getApostuaNumber()Ljava/lang/Integer;*
+
+adomain.Apustua2getApostuaNumber()þû
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.java`	 `(=
+%4boolean"-java.lang.Integer#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.Integer*
+
+%3java.lang.Integer2equals(Ljava/lang/Object;)"s
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.java` `(>
+"":
+ojava.lang.ObjectB
+domain.Apustua

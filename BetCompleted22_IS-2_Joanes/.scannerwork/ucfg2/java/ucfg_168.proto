@@ -1,0 +1,1011 @@
+
+Lgui.MezuakBidaliGUI#<init>(Ldomain/User;Ldomain/Elkarrizketa;Ldomain/User;)Vn
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java+ +("2*Æë
+2n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java, ,(¥
+±
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java, ,( 
+gui.MezuakBidaliGUI"
+thisw"__id*
+gui.MezuakBidaliGUIÆ
+´
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java- -(
+gui.MezuakBidaliGUI"
+user"__id*
+
+udomain.User¡
+æ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java. .('
+gui.MezuakBidaliGUI"
+elkarrizketa"__id*
+
+elkadomain.ElkarrizketaÒÓ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java/ /(
+%0java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.MezuakBidaliGUI2getContentPane()Å˛
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java/ /('
+
+%1void"7java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V*
+
+%0java.awt.Container*
+""2#setLayout(Ljava/awt/LayoutManager;)°û
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java0 0(
+%2java.awt.Dimension"java.awt.Dimension√
+¿
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java0 0(&
+%3"java.awt.Dimension#<init>(II)V*
+
+%2java.awt.Dimension*2Ù*2¨ÉÄ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java0 0('
+
+%4void".java.awt.Window#setSize(Ljava/awt/Dimension;)V*
+gui.MezuakBidaliGUI*
+
+%2java.awt.Dimension2setSize(Ljava/awt/Dimension;)í
+è
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java1 1(5
+%5java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas®•
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java1 1(O
+%6java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%5java.util.ResourceBundle*
+MezuakBidali2getString(Ljava/lang/String;)˛˚
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java1 1(P
+
+%7void",java.awt.Frame#setTitle(Ljava/lang/String;)V*
+gui.MezuakBidaliGUI*
+
+%6java.lang.String2setTitle(Ljava/lang/String;)í
+è
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java3 3(A
+%8java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas¶£
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java3 3(Y
+%9java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%8java.util.ResourceBundle*
+
+ZureMezuak2getString(Ljava/lang/String;)¢ü
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java3 3(
+%10javax.swing.JLabel"javax.swing.JLabel·
+ﬁ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java3 3(Z
+%11".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%10javax.swing.JLabel*
+
+%9java.lang.Stringø
+º
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java3 3(Z'
+gui.MezuakBidaliGUI"
+lblZureMezua"__id*
+
+%10javax.swing.JLabelø
+º
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java4 4(
+%12javax.swing.JLabel"__id*)*'
+gui.MezuakBidaliGUI"
+lblZureMezuaò
+ï
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java4 4('
+%13java.awt.Color"__id*
+""êç
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java4 4((
+%14void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%12javax.swing.JLabel*
+
+%13java.awt.Color2setBackground(Ljava/awt/Color;)ø
+º
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java5 5(
+%15javax.swing.JLabel"__id*)*'
+gui.MezuakBidaliGUI"
+lblZureMezuaç
+ä
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java5* 5(3
+
+%16int"__id*
+""òï
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java5 5(
+%17java.awt.Font"java.awt.Fontﬂ
+‹
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java5 5(8
+%18"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%17java.awt.Font*
+
+Tahoma*
+
+
+%16int*2Å˛
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java5 5(9
+%19void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%15javax.swing.JLabel*
+
+%17java.awt.Font2setFont(Ljava/awt/Font;)ø
+º
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java6 6(
+%20javax.swing.JLabel"__id*)*'
+gui.MezuakBidaliGUI"
+lblZureMezua◊‘
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java6 6(
+%21void"$javax.swing.JComponent#setOpaque(Z)V*
+
+%20javax.swing.JLabel*22setOpaque(Z)ø
+º
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java7 7(
+%22javax.swing.JLabel"__id*)*'
+gui.MezuakBidaliGUI"
+lblZureMezuaç
+ä
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java7& 7(;
+
+%23int"__id*
+""ıÚ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java7 7(<
+%24void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%22javax.swing.JLabel*
+
+
+%23int2setHorizontalAlignment(I)ø
+º
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java8 8(
+%25javax.swing.JLabel"__id*)*'
+gui.MezuakBidaliGUI"
+lblZureMezuaÌÍ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java8 8(*
+%26void"#java.awt.Component#setBounds(IIII)V*
+
+%25javax.swing.JLabel*2è*2
+*2û*22setBounds(IIII)ÚÔ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java9 9(
+%27java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.MezuakBidaliGUI2getContentPane()ø
+º
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java9 9(#
+%28javax.swing.JLabel"__id*)*'
+gui.MezuakBidaliGUI"
+lblZureMezua•¢
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java9 9($
+%29java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%27java.awt.Container*
+
+%28javax.swing.JLabel2add(Ljava/awt/Component;)ì
+ê
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java; ;(B
+%30java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas®•
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java; ;(Z
+%31java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+
+%30java.util.ResourceBundle*
+
+Hartzailea2getString(Ljava/lang/String;)¢ü
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java; ;(
+%32javax.swing.JLabel"javax.swing.JLabel‚
+ﬂ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java; ;([
+%33".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%32javax.swing.JLabel*
+
+%31java.lang.String¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java; ;([(
+gui.MezuakBidaliGUI"
+lblHartzailea"__id*
+
+%32javax.swing.JLabel¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java< <(
+%34javax.swing.JLabel"__id***(
+gui.MezuakBidaliGUI"
+lblHartzaileaç
+ä
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java<' <(<
+
+%35int"__id*
+""ıÚ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java< <(=
+%36void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%34javax.swing.JLabel*
+
+
+%35int2setHorizontalAlignment(I)¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java= =(
+%37javax.swing.JLabel"__id***(
+gui.MezuakBidaliGUI"
+lblHartzaileaò
+ï
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java= =((
+%38java.awt.Color"__id*
+""êç
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java= =()
+%39void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%37javax.swing.JLabel*
+
+%38java.awt.Color2setBackground(Ljava/awt/Color;)¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java> >(
+%40javax.swing.JLabel"__id***(
+gui.MezuakBidaliGUI"
+lblHartzailea◊‘
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java> >(
+%41void"$javax.swing.JComponent#setOpaque(Z)V*
+
+%40javax.swing.JLabel*22setOpaque(Z)¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java? ?(
+%42javax.swing.JLabel"__id***(
+gui.MezuakBidaliGUI"
+lblHartzaileaÎË
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java? ?()
+%43void"#java.awt.Component#setBounds(IIII)V*
+
+%42javax.swing.JLabel*2
+*2)*2A*22setBounds(IIII)ÚÔ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java@ @(
+%44java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.MezuakBidaliGUI2getContentPane()¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java@ @($
+%45javax.swing.JLabel"__id***(
+gui.MezuakBidaliGUI"
+lblHartzailea•¢
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java@ @(%
+%46java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%44java.awt.Container*
+
+%45javax.swing.JLabel2add(Ljava/awt/Component;)ì
+ê
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaB B(>
+%47java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas§°
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaB B(R
+%48java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+
+%47java.util.ResourceBundle*
+
+Asunto2getString(Ljava/lang/String;)¢ü
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaB B(
+%49javax.swing.JLabel"javax.swing.JLabel‚
+ﬂ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaB B(S
+%50".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%49javax.swing.JLabel*
+
+%48java.lang.Stringº
+π
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaB B(S$
+gui.MezuakBidaliGUI"
+	lblAsunto"__id*
+
+%49javax.swing.JLabelº
+π
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaC C(
+%51javax.swing.JLabel"__id*&*$
+gui.MezuakBidaliGUI"
+	lblAsuntoç
+ä
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaC# C(8
+
+%52int"__id*
+""ıÚ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaC C(9
+%53void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%51javax.swing.JLabel*
+
+
+%52int2setHorizontalAlignment(I)º
+π
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaD D(
+%54javax.swing.JLabel"__id*&*$
+gui.MezuakBidaliGUI"
+	lblAsuntoò
+ï
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaD D($
+%55java.awt.Color"__id*
+""êç
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaD D(%
+%56void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%54javax.swing.JLabel*
+
+%55java.awt.Color2setBackground(Ljava/awt/Color;)º
+π
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaE E(
+%57javax.swing.JLabel"__id*&*$
+gui.MezuakBidaliGUI"
+	lblAsunto◊‘
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaE E(
+%58void"$javax.swing.JComponent#setOpaque(Z)V*
+
+%57javax.swing.JLabel*22setOpaque(Z)º
+π
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaF F(
+%59javax.swing.JLabel"__id*&*$
+gui.MezuakBidaliGUI"
+	lblAsuntoÎË
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaF F(%
+%60void"#java.awt.Component#setBounds(IIII)V*
+
+%59javax.swing.JLabel*2
+*2C*2A*22setBounds(IIII)ÚÔ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaG G(
+%61java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.MezuakBidaliGUI2getContentPane()º
+π
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaG G( 
+%62javax.swing.JLabel"__id*&*$
+gui.MezuakBidaliGUI"
+	lblAsunto•¢
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaG G(!
+%63java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%61java.awt.Container*
+
+%62javax.swing.JLabel2add(Ljava/awt/Component;)™ß
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaI I( 
+%64javax.swing.JTextField"javax.swing.JTextFieldΩ
+∫
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaI I("
+%65" javax.swing.JTextField#<init>()V*
+
+%64javax.swing.JTextFieldƒ
+¡
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaI I("(
+gui.MezuakBidaliGUI"
+txtHartzailea"__id*
+
+%64javax.swing.JTextFieldƒ
+¡
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaJ J(
+%66javax.swing.JTextField"__id***(
+gui.MezuakBidaliGUI"
+txtHartzaileaÄ˝
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaJ J(
+%67void"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V*
+
+%66javax.swing.JTextField* 2setText(Ljava/lang/String;)ƒ
+¡
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaK K(
+%68javax.swing.JTextField"__id***(
+gui.MezuakBidaliGUI"
+txtHartzaileaÌ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaK K(*
+%69void"#java.awt.Component#setBounds(IIII)V*
+
+%68javax.swing.JTextField*2S*2&*2‚*22setBounds(IIII)ÚÔ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaL L(
+%70java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.MezuakBidaliGUI2getContentPane()ƒ
+¡
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaL L($
+%71javax.swing.JTextField"__id***(
+gui.MezuakBidaliGUI"
+txtHartzailea©¶
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaL L(%
+%72java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%70java.awt.Container*
+
+%71javax.swing.JTextField2add(Ljava/awt/Component;)ƒ
+¡
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaM M(
+%73javax.swing.JTextField"__id***(
+gui.MezuakBidaliGUI"
+txtHartzailea›⁄
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaM M(
+%74void"%javax.swing.JTextField#setColumns(I)V*
+
+%73javax.swing.JTextField*2
+2setColumns(I)™ß
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaO O(
+%75javax.swing.JTextField"javax.swing.JTextFieldΩ
+∫
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaO O(
+%76" javax.swing.JTextField#<init>()V*
+
+%75javax.swing.JTextField¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaO O($
+gui.MezuakBidaliGUI"
+	txtAsunto"__id*
+
+%75javax.swing.JTextField¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaP P(
+%77javax.swing.JTextField"__id*&*$
+gui.MezuakBidaliGUI"
+	txtAsuntoÄ˝
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaP P(
+%78void"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V*
+
+%77javax.swing.JTextField* 2setText(Ljava/lang/String;)¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaQ Q(
+%79javax.swing.JTextField"__id*&*$
+gui.MezuakBidaliGUI"
+	txtAsuntoÌ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaQ Q(&
+%80void"#java.awt.Component#setBounds(IIII)V*
+
+%79javax.swing.JTextField*2S*2@*2‚*22setBounds(IIII)ÚÔ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaR R(
+%81java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.MezuakBidaliGUI2getContentPane()¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaR R( 
+%82javax.swing.JTextField"__id*&*$
+gui.MezuakBidaliGUI"
+	txtAsunto©¶
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaR R(!
+%83java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%81java.awt.Container*
+
+%82javax.swing.JTextField2add(Ljava/awt/Component;)¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaS S(
+%84javax.swing.JTextField"__id*&*$
+gui.MezuakBidaliGUI"
+	txtAsunto›⁄
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaS S(
+%85void"%javax.swing.JTextField#setColumns(I)V*
+
+%84javax.swing.JTextField*2
+2setColumns(I)™ß
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaU U(
+%86javax.swing.JTextField"javax.swing.JTextFieldΩ
+∫
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaU U(
+%87" javax.swing.JTextField#<init>()V*
+
+%86javax.swing.JTextField¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaU U($
+gui.MezuakBidaliGUI"
+	txtTestua"__id*
+
+%86javax.swing.JTextField¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaV V(
+%88javax.swing.JTextField"__id*&*$
+gui.MezuakBidaliGUI"
+	txtTestuaÄ˝
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaV V(
+%89void"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V*
+
+%88javax.swing.JTextField* 2setText(Ljava/lang/String;)¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaW W(
+%90javax.swing.JTextField"__id*&*$
+gui.MezuakBidaliGUI"
+	txtTestuaÒÓ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaW W('
+%91void"#java.awt.Component#setBounds(IIII)V*
+
+%90javax.swing.JTextField*2S*2Z*2‚*2Å2setBounds(IIII)ÚÔ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaX X(
+%92java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.MezuakBidaliGUI2getContentPane()¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaX X( 
+%93javax.swing.JTextField"__id*&*$
+gui.MezuakBidaliGUI"
+	txtTestua©¶
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaX X(!
+%94java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%92java.awt.Container*
+
+%93javax.swing.JTextField2add(Ljava/awt/Component;)¿
+Ω
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaY Y(
+%95javax.swing.JTextField"__id*&*$
+gui.MezuakBidaliGUI"
+	txtTestua›⁄
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaY Y(
+%96void"%javax.swing.JTextField#setColumns(I)V*
+
+%95javax.swing.JTextField*2
+2setColumns(I)¢ü
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java[ [(
+%97javax.swing.JLabel"javax.swing.JLabelµ
+≤
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java[ [(
+%98"javax.swing.JLabel#<init>()V*
+
+%97javax.swing.JLabelª
+∏
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java[ [(#
+gui.MezuakBidaliGUI"
+
+lblError"__id*
+
+%97javax.swing.JLabelª
+∏
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java\ \(
+
+%99javax.swing.JLabel"__id*%*#
+gui.MezuakBidaliGUI"
+
+lblErroré
+ã
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java\" \(7
+%100int"__id*
+""˜Ù
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java\ \(8
+%101void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%99javax.swing.JLabel*
+
+%100int2setHorizontalAlignment(I)º
+π
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java] ](
+
+%102javax.swing.JLabel"__id*%*#
+gui.MezuakBidaliGUI"
+
+lblErrorÌ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java] ]('
+%103void"#java.awt.Component#setBounds(IIII)V*
+
+%102javax.swing.JLabel*2è*2Â*2…*22setBounds(IIII)Û
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java^ ^(
+%104java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.MezuakBidaliGUI2getContentPane()º
+π
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java^ ^(
+%105javax.swing.JLabel"__id*%*#
+gui.MezuakBidaliGUI"
+
+lblError®•
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java^ ^( 
+%106java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%104java.awt.Container*
+
+%105javax.swing.JLabel2add(Ljava/awt/Component;)º
+π
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java_ _(
+
+%107javax.swing.JLabel"__id*%*#
+gui.MezuakBidaliGUI"
+
+lblErrorŸ÷
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.java_ _(
+%108void"%javax.swing.JComponent#setVisible(Z)V*
+
+%107javax.swing.JLabel*2 2setVisible(Z)î
+ë
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaa a(> 
+%109java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas•¢
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaa a(Q
+%110java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*"
+ 
+%109java.util.ResourceBundle*	
+Close2getString(Ljava/lang/String;)•¢
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaa a(
+%111javax.swing.JButton"javax.swing.JButtonÁ
+‰
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaa a(R
+%112"/javax.swing.JButton#<init>(Ljava/lang/String;)V*
+
+%111javax.swing.JButton*
+
+%110java.lang.StringΩ
+∫
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaa a(R#
+gui.MezuakBidaliGUI"
+
+btnClose"__id*
+
+%111javax.swing.JButtonΩ
+∫
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javab b(
+
+%113javax.swing.JButton"__id*%*#
+gui.MezuakBidaliGUI"
+
+btnCloseô
+ñ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javab b((
+%114java.awt.Color"__id*
+""îë
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javab b()
+%115void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%113javax.swing.JButton*
+
+%114java.awt.Color2setBackground(Ljava/awt/Color;)Ω
+∫
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javac c(
+
+%116javax.swing.JButton"__id*%*#
+gui.MezuakBidaliGUI"
+
+btnCloseô
+ñ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javac c($
+%117java.awt.Color"__id*
+""îë
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javac c(%
+%118void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%116javax.swing.JButton*
+
+%117java.awt.Color2setForeground(Ljava/awt/Color;)Ω
+∫
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javad d(
+
+%119javax.swing.JButton"__id*%*#
+gui.MezuakBidaliGUI"
+
+btnClose©¶
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javad! d(/
+%120gui.MezuakBidaliGUI$1"gui.MezuakBidaliGUI$1∏
+µ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javad h(
+%121"java.lang.Object#<init>()V*
+
+%120gui.MezuakBidaliGUI$1≈¬
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javad h(
+%122void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%119javax.swing.JButton*
+
+%120gui.MezuakBidaliGUI$122addActionListener(Ljava/awt/event/ActionListener;)Ω
+∫
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javai i(
+
+%123javax.swing.JButton"__id*%*#
+gui.MezuakBidaliGUI"
+
+btnCloseÌ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javai i(&
+%124void"#java.awt.Component#setBounds(IIII)V*
+
+%123javax.swing.JButton*2Ì*2Â*2U*22setBounds(IIII)Û
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaj j(
+%125java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.MezuakBidaliGUI2getContentPane()Ω
+∫
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaj j(
+%126javax.swing.JButton"__id*%*#
+gui.MezuakBidaliGUI"
+
+btnClose©¶
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaj j( 
+%127java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%125java.awt.Container*
+
+%126javax.swing.JButton2add(Ljava/awt/Component;)î
+ë
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javam m(? 
+%128java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas¶£
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javam m(S
+%129java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*"
+ 
+%128java.util.ResourceBundle*
+
+Enviar2getString(Ljava/lang/String;)•¢
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javam m(
+%130javax.swing.JButton"javax.swing.JButtonÁ
+‰
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javam m(T
+%131"/javax.swing.JButton#<init>(Ljava/lang/String;)V*
+
+%130javax.swing.JButton*
+
+%129java.lang.Stringæ
+ª
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javam m(T$
+gui.MezuakBidaliGUI"
+	btnEnviar"__id*
+
+%130javax.swing.JButtonæ
+ª
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javan n(
+%132javax.swing.JButton"__id*&*$
+gui.MezuakBidaliGUI"
+	btnEnviarô
+ñ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javan n()
+%133java.awt.Color"__id*
+""îë
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javan n(*
+%134void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%132javax.swing.JButton*
+
+%133java.awt.Color2setForeground(Ljava/awt/Color;)æ
+ª
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javao o(
+%135javax.swing.JButton"__id*&*$
+gui.MezuakBidaliGUI"
+	btnEnviarô
+ñ
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javao o($
+%136java.awt.Color"__id*
+""îë
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javao o(%
+%137void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%135javax.swing.JButton*
+
+%136java.awt.Color2setBackground(Ljava/awt/Color;)æ
+ª
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javap p(
+%138javax.swing.JButton"__id*&*$
+gui.MezuakBidaliGUI"
+	btnEnviar©¶
+n
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javap" p(0
+%139gui.MezuakBidaliGUI$2"gui.MezuakBidaliGUI$2π
+∂
+o
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javap Ç(
+%140"java.lang.Object#<init>()V*
+
+%139gui.MezuakBidaliGUI$2∆√
+o
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javap Ç(
+%141void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%138javax.swing.JButton*
+
+%139gui.MezuakBidaliGUI$222addActionListener(Ljava/awt/event/ActionListener;)¿
+Ω
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaÉ É(
+%142javax.swing.JButton"__id*&*$
+gui.MezuakBidaliGUI"
+	btnEnviarÒÓ
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaÉ É(&
+%143void"#java.awt.Component#setBounds(IIII)V*
+
+%142javax.swing.JButton*2*2Â*2U*22setBounds(IIII)ıÚ
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaÑ Ñ(
+%144java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.MezuakBidaliGUI2getContentPane()¿
+Ω
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaÑ Ñ( 
+%145javax.swing.JButton"__id*&*$
+gui.MezuakBidaliGUI"
+	btnEnviar´®
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaÑ Ñ(!
+%146java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%144java.awt.Container*
+
+%145javax.swing.JButton2add(Ljava/awt/Component;)*
+0
+1*è
+0 "á
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaå å(
+implicit return*Á
+1p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaá á(«
+ƒ
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaá á(
+%147javax.swing.JTextField"__id***(
+gui.MezuakBidaliGUI"
+txtHartzaileaÂ‚
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaá á(.
+%148java.lang.String"+domain.User#getUsername()Ljava/lang/String;*
+
+igorleadomain.User2getUsername()úô
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaá á(/
+%149void"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V* 
+
+%147javax.swing.JTextField*
+
+%148java.lang.String2setText(Ljava/lang/String;)√
+¿
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaà à(
+%150javax.swing.JTextField"__id*&*$
+gui.MezuakBidaliGUI"
+	txtAsunto√
+¿
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaà à(!
+%151domain.Elkarrizketa"__id*)*'
+gui.MezuakBidaliGUI"
+elkarrizketaÓÎ
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaà à(-
+%152java.lang.String"1domain.Elkarrizketa#getTitulo()Ljava/lang/String;*
+
+%151domain.Elkarrizketa2getTitulo()úô
+p
+dC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/MezuakBidaliGUI.javaà à(.
+%153void"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V* 
+
+%150javax.swing.JTextField*
+
+%152java.lang.String2setText(Ljava/lang/String;)*
+0:
+udomain.User:
+elkadomain.Elkarrizketa:
+igorleadomain.UserB
+gui.MezuakBidaliGUI

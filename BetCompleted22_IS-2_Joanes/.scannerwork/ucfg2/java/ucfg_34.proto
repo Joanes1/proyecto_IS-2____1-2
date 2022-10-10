@@ -1,0 +1,47 @@
+
+BdataAccess.DataAccess#getEventsTeam(Ldomain/Team;)Ljava/util/List;r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaå
+ å
+(!"1*¦
+1r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaæ
+	 æ
+(ÜÙ
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaæ
+ æ
+(,
+%0java.lang.String"(domain.Team#getIzena()Ljava/lang/String;*
+
+teamdomain.Team2
+getIzena()—
+”
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaæ
+ æ
+(.
+tdomain.Team"__id*
+""ÙÖ
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaè
+ è
+($
+%1java.lang.String"(domain.Team#getIzena()Ljava/lang/String;*
+
+tdomain.Team2
+getIzena()ÙÖ
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaé
+ é
+($
+%2java.lang.String"(domain.Team#getIzena()Ljava/lang/String;*
+
+tdomain.Team2
+getIzena()"|
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaê
+ ê
+(
+"":
+teamdomain.TeamB
+dataAccess.DataAccess

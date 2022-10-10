@@ -1,0 +1,1 @@
+M 2xmlXhrsrc/main/resources/config.xml

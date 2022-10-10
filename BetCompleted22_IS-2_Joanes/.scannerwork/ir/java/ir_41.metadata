@@ -1,0 +1,9 @@
+dataAccess.DataAccess#gertaerakKopiatu(Ldomain/Event;Ljava/util/Date;)Z
+null
+domain.Question#<init>(Ljava/lang/String;DLdomain/Event;)V
+java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
+domain.Event#<init>(Ljava/lang/String;Ljava/util/Date;Ldomain/Team;Ldomain/Team;)V
+domain.Team#<init>(Ljava/lang/String;)V
+domain.Team#instance-init#
+domain.Event#instance-init#
+domain.Question#instance-init#

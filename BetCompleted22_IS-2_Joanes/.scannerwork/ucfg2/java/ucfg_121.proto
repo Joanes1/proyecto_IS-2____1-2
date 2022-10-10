@@ -1,0 +1,172 @@
+
+6gui.RegisteredGUI#getLblNewLabel()Ljavax/swing/JLabel;n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaë ë("3*ﬁ&
+2n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaì# ì(1í
+è
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaì# ì(H
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas®•
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaì# ì(b
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%1java.util.ResourceBundle*
+SelectOption2getString(Ljava/lang/String;)°û
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaì ì("
+%3javax.swing.JLabel"javax.swing.JLabelﬂ
+‹
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaì ì(c
+%4".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.JLabel*
+
+%2java.lang.String¬
+ø
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaì ì(c+
+gui.RegisteredGUI"
+jLabelSelectOption"__id*
+
+%3javax.swing.JLabel¬
+ø
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaî î(
+%5javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOption’“
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaî î(%
+
+%6void"$javax.swing.JComponent#setOpaque(Z)V*
+
+%5javax.swing.JLabel*22setOpaque(Z)¬
+ø
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaï ï(
+%7javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOptionó
+î
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaï$ ï(.
+%8java.awt.Color"__id*
+""çä
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaï ï(/
+
+%9void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%7javax.swing.JLabel*
+
+%8java.awt.Color2setBackground(Ljava/awt/Color;)√
+¿
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javañ ñ(
+%10javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOptionÌÍ
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javañ ñ(1
+%11void"#java.awt.Component#setBounds(IIII)V*
+
+%10javax.swing.JLabel*2°*2*2±*2:2setBounds(IIII)√
+¿
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaó ó(
+%12javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOptionç
+ä
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaó1 ó(:
+
+%13int"__id*
+""òï
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaó" ó(&
+%14java.awt.Font"java.awt.Fontﬂ
+‹
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaó ó(?
+%15"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%14java.awt.Font*
+
+Tahoma*
+
+
+%13int*2Å˛
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaó ó(@
+%16void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%12javax.swing.JLabel*
+
+%14java.awt.Font2setFont(Ljava/awt/Font;)√
+¿
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaò ò(
+%17javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOptionò
+ï
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaò$ ò(/
+%18java.awt.Color"__id*
+""êç
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaò ò(0
+%19void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%17javax.swing.JLabel*
+
+%18java.awt.Color2setForeground(Ljava/awt/Color;)√
+¿
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaô ô(
+%20javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOptionç
+ä
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaô- ô(B
+
+%21int"__id*
+""ıÚ
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaô ô(C
+%22void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%20javax.swing.JLabel*
+
+
+%21int2setHorizontalAlignment(I)*
+1*¿
+3n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaí í(¬
+ø
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaí í(
+%0javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOption*
+2
+1*…
+1n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaõ	 õ(√
+¿
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaõ	 õ(
+%23javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOption"ç
+n
+bC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/RegisteredGUI.javaõ õ(
+
+%23javax.swing.JLabelB
+gui.RegisteredGUI

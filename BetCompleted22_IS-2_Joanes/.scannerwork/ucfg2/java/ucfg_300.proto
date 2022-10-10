@@ -1,0 +1,63 @@
+
+hbusinessLogic.BLFacadeImplementation#jarraitu(Ldomain/Registered;Ldomain/Registered;Ljava/lang/Double;)ZÅ
+uC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/businessLogic/BLFacadeImplementation.java∫ ∫("startingBlock*≠
+
+startingBlockÅ
+uC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/businessLogic/BLFacadeImplementation.java∫ ∫(N∆
+√
+Å
+uC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/businessLogic/BLFacadeImplementation.javaπ π(
+%0"
+__annotate*
+	WebMethod*
+
+jabeadomain.Registeredπ
+∂
+Å
+uC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/businessLogic/BLFacadeImplementation.java∫$ ∫()
+jabeadomain.Registered"__annotation*
+
+%0 
+«
+Å
+uC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/businessLogic/BLFacadeImplementation.javaπ π(
+%1"
+__annotate*
+	WebMethod* 
+
+	jarraituadomain.RegisteredΩ
+∫
+Å
+uC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/businessLogic/BLFacadeImplementation.java∫6 ∫(?
+	jarraituadomain.Registered"__annotation*
+
+%1≈
+¬
+Å
+uC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/businessLogic/BLFacadeImplementation.javaπ π(
+%2"
+__annotate*
+	WebMethod*
+
+limitjava.lang.Double∏
+µ
+Å
+uC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/businessLogic/BLFacadeImplementation.java∫H ∫(M
+limitjava.lang.Double"__annotation*
+
+%2*
+1*∆
+1Å
+uC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/businessLogic/BLFacadeImplementation.javaª ª(≠
+™
+Å
+uC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/businessLogic/BLFacadeImplementation.javaº º(8
+bjava.lang.Boolean"__id*
+"""å
+Å
+uC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/businessLogic/BLFacadeImplementation.javaæ æ(
+"":
+jabeadomain.Registered:
+	jarraituadomain.Registered:
+limitjava.lang.DoubleB(&
+$businessLogic.BLFacadeImplementation

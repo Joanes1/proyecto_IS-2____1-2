@@ -1,0 +1,1881 @@
+
+)gui.SugerenciasGUI#<init>(Ldomain/User;)Vm
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaA A("7*È
+2m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javan' n(Pß§
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javan n(&
+%90javax.swing.ImageIcon"javax.swing.ImageIcon˘
+ˆ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javan n(Q
+%91"1javax.swing.ImageIcon#<init>(Ljava/lang/String;)V*
+
+%90javax.swing.ImageIcon*+)
+'.\\src/main/resources\\data\\tennis.pngº
+π
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javan n(R"
+	imageIconjavax.swing.ImageIcon"__id*
+
+%90javax.swing.ImageIconÌÍ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javao o((
+%92java.awt.Image"0javax.swing.ImageIcon#getImage()Ljava/awt/Image;*$
+"
+	imageIconjavax.swing.ImageIcon2
+getImage()™
+ß
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javao o()
+imagejava.awt.Image"__id*
+
+%92java.awt.Imageå
+â
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javap5 p(G
+
+%93int"__id*
+""çä
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javap p(H
+%94java.awt.Image"5java.awt.Image#getScaledInstance(III)Ljava/awt/Image;*
+
+imagejava.awt.Image*2(*2(*
+
+
+%93int2getScaledInstance(III)´
+®
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javap p(I
+newimgjava.awt.Image"__id*
+
+%94java.awt.Imageß§
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaq q(
+%95javax.swing.ImageIcon"javax.swing.ImageIconÊ
+„
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaq q('
+%96"/javax.swing.ImageIcon#<init>(Ljava/awt/Image;)V*
+
+%95javax.swing.ImageIcon*
+
+newimgjava.awt.Imageº
+π
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaq q('"
+	imageIconjavax.swing.ImageIcon"__id*
+
+%95javax.swing.ImageIconª
+∏
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javar	 r(
+%97javax.swing.JLabel"__id*&*$
+gui.SugerenciasGUI"
+
+lblDeporteêç
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javar	 r(&
+%98void"/javax.swing.JLabel#setIcon(Ljavax/swing/Icon;)V*
+
+%97javax.swing.JLabel*$
+"
+	imageIconjavax.swing.ImageIcon2setIcon(Ljavax/swing/Icon;)*
+1*È
+4m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javah' h(Pß§
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javah h(&
+%81javax.swing.ImageIcon"javax.swing.ImageIcon˘
+ˆ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javah h(Q
+%82"1javax.swing.ImageIcon#<init>(Ljava/lang/String;)V*
+
+%81javax.swing.ImageIcon*+)
+'.\\src/main/resources\\data\\basker.pngº
+π
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javah h(R"
+	imageIconjavax.swing.ImageIcon"__id*
+
+%81javax.swing.ImageIconÌÍ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javai i((
+%83java.awt.Image"0javax.swing.ImageIcon#getImage()Ljava/awt/Image;*$
+"
+	imageIconjavax.swing.ImageIcon2
+getImage()™
+ß
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javai i()
+imagejava.awt.Image"__id*
+
+%83java.awt.Imageå
+â
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaj5 j(G
+
+%84int"__id*
+""çä
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaj j(H
+%85java.awt.Image"5java.awt.Image#getScaledInstance(III)Ljava/awt/Image;*
+
+imagejava.awt.Image*2(*2(*
+
+
+%84int2getScaledInstance(III)´
+®
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaj j(I
+newimgjava.awt.Image"__id*
+
+%85java.awt.Imageß§
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javak k(
+%86javax.swing.ImageIcon"javax.swing.ImageIconÊ
+„
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javak k('
+%87"/javax.swing.ImageIcon#<init>(Ljava/awt/Image;)V*
+
+%86javax.swing.ImageIcon*
+
+newimgjava.awt.Imageº
+π
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javak k('"
+	imageIconjavax.swing.ImageIcon"__id*
+
+%86javax.swing.ImageIconª
+∏
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javal	 l(
+%88javax.swing.JLabel"__id*&*$
+gui.SugerenciasGUI"
+
+lblDeporteêç
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javal	 l(&
+%89void"/javax.swing.JLabel#setIcon(Ljavax/swing/Icon;)V*
+
+%88javax.swing.JLabel*$
+"
+	imageIconjavax.swing.ImageIcon2setIcon(Ljavax/swing/Icon;)*
+1*È
+6m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javab' b(Pß§
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javab b(&
+%72javax.swing.ImageIcon"javax.swing.ImageIcon˘
+ˆ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javab b(Q
+%73"1javax.swing.ImageIcon#<init>(Ljava/lang/String;)V*
+
+%72javax.swing.ImageIcon*+)
+'.\\src/main/resources\\data\\futbol.pngº
+π
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javab b(R"
+	imageIconjavax.swing.ImageIcon"__id*
+
+%72javax.swing.ImageIconÌÍ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javac c((
+%74java.awt.Image"0javax.swing.ImageIcon#getImage()Ljava/awt/Image;*$
+"
+	imageIconjavax.swing.ImageIcon2
+getImage()™
+ß
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javac c()
+imagejava.awt.Image"__id*
+
+%74java.awt.Imageå
+â
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javad5 d(G
+
+%75int"__id*
+""çä
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javad d(H
+%76java.awt.Image"5java.awt.Image#getScaledInstance(III)Ljava/awt/Image;*
+
+imagejava.awt.Image*2(*2(*
+
+
+%75int2getScaledInstance(III)´
+®
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javad d(I
+newimgjava.awt.Image"__id*
+
+%76java.awt.Imageß§
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javae e(
+%77javax.swing.ImageIcon"javax.swing.ImageIconÊ
+„
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javae e('
+%78"/javax.swing.ImageIcon#<init>(Ljava/awt/Image;)V*
+
+%77javax.swing.ImageIcon*
+
+newimgjava.awt.Imageº
+π
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javae e('"
+	imageIconjavax.swing.ImageIcon"__id*
+
+%77javax.swing.ImageIconª
+∏
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaf	 f(
+%79javax.swing.JLabel"__id*&*$
+gui.SugerenciasGUI"
+
+lblDeporteêç
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaf	 f(&
+%80void"/javax.swing.JLabel#setIcon(Ljavax/swing/Icon;)V*
+
+%79javax.swing.JLabel*$
+"
+	imageIconjavax.swing.ImageIcon2setIcon(Ljavax/swing/Icon;)*
+1*ÀÅ
+7m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaB B(±
+Æ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaB B(
+gui.SugerenciasGUI"
+thisw"__id*
+gui.SugerenciasGUIÔÏ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaC C(
+%0java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()Ä˝
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaC C("
+
+%1void"7java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V*
+
+%0java.awt.Container*
+""2#setLayout(Ljava/awt/LayoutManager;)†ù
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaD D(
+%2java.awt.Dimension"java.awt.Dimension¬
+ø
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaD D(&
+%3"java.awt.Dimension#<init>(II)V*
+
+%2java.awt.Dimension*2¶*2¥Å˛
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaD D('
+
+%4void".java.awt.Window#setSize(Ljava/awt/Dimension;)V*
+gui.SugerenciasGUI*
+
+%2java.awt.Dimension2setSize(Ljava/awt/Dimension;)ë
+é
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaE E(5
+%5java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas•¢
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaE E(M
+%6java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%5java.util.ResourceBundle*
+
+Sugerencia2getString(Ljava/lang/String;)¸˘
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaE E(N
+
+%7void",java.awt.Frame#setTitle(Ljava/lang/String;)V*
+gui.SugerenciasGUI*
+
+%6java.lang.String2setTitle(Ljava/lang/String;)ë
+é
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaG G(B
+%8java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas¨©
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaG G(a
+%9java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%8java.util.ResourceBundle*
+SugerenciaDeporte2getString(Ljava/lang/String;)°û
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaG G(
+%10javax.swing.JLabel"javax.swing.JLabel‡
+›
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaG G(b
+%11".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%10javax.swing.JLabel*
+
+%9java.lang.Stringæ
+ª
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaG G(b'
+gui.SugerenciasGUI"
+lblSugerencia"__id*
+
+%10javax.swing.JLabelæ
+ª
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaH H(
+%12javax.swing.JLabel"__id*)*'
+gui.SugerenciasGUI"
+lblSugerenciaå
+â
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaH+ H(5
+
+%13int"__id*
+""óî
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaH H( 
+%14java.awt.Font"java.awt.Fontﬁ
+€
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaH H(:
+%15"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%14java.awt.Font*
+
+Tahoma*
+
+
+%13int*2Ä˝
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaH H(;
+%16void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%12javax.swing.JLabel*
+
+%14java.awt.Font2setFont(Ljava/awt/Font;)æ
+ª
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaI I(
+%17javax.swing.JLabel"__id*)*'
+gui.SugerenciasGUI"
+lblSugerenciaå
+â
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaI' I(;
+
+%18int"__id*
+""ÙÒ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaI I(<
+%19void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%17javax.swing.JLabel*
+
+
+%18int2setHorizontalAlignment(I)æ
+ª
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaJ J(
+%20javax.swing.JLabel"__id*)*'
+gui.SugerenciasGUI"
+lblSugerenciaÎË
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaJ J(*
+%21void"#java.awt.Component#setBounds(IIII)V*
+
+%20javax.swing.JLabel*2
+*2-*2ÿ*2D2setBounds(IIII)Ì
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaK K(
+%22java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()æ
+ª
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaK K($
+%23javax.swing.JLabel"__id*)*'
+gui.SugerenciasGUI"
+lblSugerencia§°
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaK K(%
+%24java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%22java.awt.Container*
+
+%23javax.swing.JLabel2add(Ljava/awt/Component;)°û
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaM M(
+%25javax.swing.JLabel"javax.swing.JLabel¥
+±
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaM M(
+%26"javax.swing.JLabel#<init>()V*
+
+%25javax.swing.JLabelª
+∏
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaM M($
+gui.SugerenciasGUI"
+
+lblDeporte"__id*
+
+%25javax.swing.JLabelª
+∏
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaN N(
+%27javax.swing.JLabel"__id*&*$
+gui.SugerenciasGUI"
+
+lblDeporteå
+â
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaN( N(2
+
+%28int"__id*
+""óî
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaN N(
+%29java.awt.Font"java.awt.Fontﬁ
+€
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaN N(7
+%30"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%29java.awt.Font*
+
+Tahoma*
+
+
+%28int*2Ä˝
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaN N(8
+%31void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%27javax.swing.JLabel*
+
+%29java.awt.Font2setFont(Ljava/awt/Font;)ª
+∏
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaO O(
+%32javax.swing.JLabel"__id*&*$
+gui.SugerenciasGUI"
+
+lblDeporteÏÈ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaO O((
+%33void"#java.awt.Component#setBounds(IIII)V*
+
+%32javax.swing.JLabel*2Ï*2/*2¢*2@2setBounds(IIII)Ì
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaP P(
+%34java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()ª
+∏
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaP P(!
+%35javax.swing.JLabel"__id*&*$
+gui.SugerenciasGUI"
+
+lblDeporte§°
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaP P("
+%36java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%34java.awt.Container*
+
+%35javax.swing.JLabel2add(Ljava/awt/Component;)¨
+©
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaQ Q(
+gui.SugerenciasGUI"
+user"__id*
+
+udomain.User°û
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaS S(
+%37javax.swing.JLabel"javax.swing.JLabel¥
+±
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaS S(!
+%38"javax.swing.JLabel#<init>()V*
+
+%37javax.swing.JLabel¡
+æ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaS S(!*
+gui.SugerenciasGUI"
+lblErrorQuestion"__id*
+
+%37javax.swing.JLabel¡
+æ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaT T(
+%39javax.swing.JLabel"__id*,**
+gui.SugerenciasGUI"
+lblErrorQuestionå
+â
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaT. T(8
+
+%40int"__id*
+""óî
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaT T(#
+%41java.awt.Font"java.awt.Fontﬁ
+€
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaT T(=
+%42"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%41java.awt.Font*
+
+Tahoma*
+
+
+%40int*2Ä˝
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaT T(>
+%43void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%39javax.swing.JLabel*
+
+%41java.awt.Font2setFont(Ljava/awt/Font;)¡
+æ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaU U(
+%44javax.swing.JLabel"__id*,**
+gui.SugerenciasGUI"
+lblErrorQuestionå
+â
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaU* U(>
+
+%45int"__id*
+""ÙÒ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaU U(?
+%46void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%44javax.swing.JLabel*
+
+
+%45int2setHorizontalAlignment(I)¡
+æ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaV V(
+%47javax.swing.JLabel"__id*,**
+gui.SugerenciasGUI"
+lblErrorQuestionÏÈ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaV V(/
+%48void"#java.awt.Component#setBounds(IIII)V*
+
+%47javax.swing.JLabel*2*2∫*2˛*22setBounds(IIII)Ì
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaW W(
+%49java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()¡
+æ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaW W('
+%50javax.swing.JLabel"__id*,**
+gui.SugerenciasGUI"
+lblErrorQuestion§°
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaW W((
+%51java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%49java.awt.Container*
+
+%50javax.swing.JLabel2add(Ljava/awt/Component;)°û
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaY Y(
+%52javax.swing.JLabel"javax.swing.JLabel¥
+±
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaY Y(
+%53"javax.swing.JLabel#<init>()V*
+
+%52javax.swing.JLabelæ
+ª
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaY Y('
+gui.SugerenciasGUI"
+lblErrorQuote"__id*
+
+%52javax.swing.JLabelæ
+ª
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaZ Z(
+%54javax.swing.JLabel"__id*)*'
+gui.SugerenciasGUI"
+lblErrorQuoteå
+â
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaZ+ Z(5
+
+%55int"__id*
+""óî
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaZ Z( 
+%56java.awt.Font"java.awt.Fontﬁ
+€
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaZ Z(:
+%57"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%56java.awt.Font*
+
+Tahoma*
+
+
+%55int*2Ä˝
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaZ Z(;
+%58void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%54javax.swing.JLabel*
+
+%56java.awt.Font2setFont(Ljava/awt/Font;)æ
+ª
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java[ [(
+%59javax.swing.JLabel"__id*)*'
+gui.SugerenciasGUI"
+lblErrorQuoteå
+â
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java[' [(;
+
+%60int"__id*
+""ÙÒ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java[ [(<
+%61void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%59javax.swing.JLabel*
+
+
+%60int2setHorizontalAlignment(I)æ
+ª
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java\ \(
+%62javax.swing.JLabel"__id*)*'
+gui.SugerenciasGUI"
+lblErrorQuoteÏÈ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java\ \(,
+%63void"#java.awt.Component#setBounds(IIII)V*
+
+%62javax.swing.JLabel*2*2¯*2˛*22setBounds(IIII)Ì
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java] ](
+%64java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()æ
+ª
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java] ]($
+%65javax.swing.JLabel"__id*)*'
+gui.SugerenciasGUI"
+lblErrorQuote§°
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java] ](%
+%66java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%64java.awt.Container*
+
+%65javax.swing.JLabel2add(Ljava/awt/Component;)¬
+ø
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java_ _(
+%67businessLogic.BLFacade"__id*)*'
+gui.SugerenciasGUI"
+businessLogicÆ
+´
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java_# _('
+%68domain.User"__id* *
+gui.SugerenciasGUI"
+useråâ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java_ _((
+%69";businessLogic.BLFacade#gehiengoaLortu(Ldomain/User;)LSport;*
+
+%67businessLogic.BLFacade*
+
+%68domain.User2gehiengoaLortu(Ldomain/User;)ª
+∏
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java` `(
+%70javax.swing.JLabel"__id*&*$
+gui.SugerenciasGUI"
+
+lblDeporteÏÈ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java` `("
+%71"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
+
+%70javax.swing.JLabel*
+""2setText(Ljava/lang/String;)*
+2
+4
+6
+1*é
+0 "Ü
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÏ Ï(
+implicit return*ÿ¬
+1m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javau u(¡
+æ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javau u(
+%99javax.swing.JLabel"__id*,**
+gui.SugerenciasGUI"
+lblErrorQuestion◊‘
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javau u($
+%100void"%javax.swing.JComponent#setVisible(Z)V*
+
+%99javax.swing.JLabel*2 2setVisible(Z)ì
+ê
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaw w(@ 
+%101java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas™ß
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaw w(Y
+%102java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*"
+ 
+%101java.util.ResourceBundle*
+ApustuaEgin2getString(Ljava/lang/String;)§°
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaw w(
+%103javax.swing.JButton"javax.swing.JButtonÊ
+„
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaw w(Z
+%104"/javax.swing.JButton#<init>(Ljava/lang/String;)V*
+
+%103javax.swing.JButton*
+
+%102java.lang.StringΩ
+∫
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaw w(Z$
+gui.SugerenciasGUI"
+
+btnApostar"__id*
+
+%103javax.swing.JButtonΩ
+∫
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javax x(
+%105javax.swing.JButton"__id*&*$
+gui.SugerenciasGUI"
+
+btnApostarç
+ä
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javax( x(2
+%106int"__id*
+""òï
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javax x(
+%107java.awt.Font"java.awt.Font·
+ﬁ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javax x(7
+%108"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%107java.awt.Font*
+
+Tahoma*
+
+%106int*2ÑÅ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javax x(8
+%109void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%105javax.swing.JButton*
+
+%107java.awt.Font2setFont(Ljava/awt/Font;)Ω
+∫
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javay y(
+%110javax.swing.JButton"__id*&*$
+gui.SugerenciasGUI"
+
+btnApostarò
+ï
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javay y(%
+%111java.awt.Color"__id*
+""ìê
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javay y(&
+%112void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%110javax.swing.JButton*
+
+%111java.awt.Color2setBackground(Ljava/awt/Color;)Ω
+∫
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaz z(
+%113javax.swing.JButton"__id*&*$
+gui.SugerenciasGUI"
+
+btnApostarò
+ï
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaz z(*
+%114java.awt.Color"__id*
+""ìê
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaz z(+
+%115void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%113javax.swing.JButton*
+
+%114java.awt.Color2setForeground(Ljava/awt/Color;)†ù
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java{ {(
+%116javax.swing.JList"javax.swing.JList¥
+±
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java{	 {(
+%117"javax.swing.JList#<init>()V*
+
+%116javax.swing.JListµ
+≤
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java{ {(
+gui.SugerenciasGUI"
+list"__id*
+
+%116javax.swing.JListµ
+≤
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java| |(
+%118javax.swing.JList"__id* *
+gui.SugerenciasGUI"
+listç
+ä
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java|" |(,
+%119int"__id*
+""òï
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java| |(
+%120java.awt.Font"java.awt.Font·
+ﬁ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java| |(1
+%121"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%120java.awt.Font*
+
+Tahoma*
+
+%119int*2Çˇ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java| |(2
+%122void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%118javax.swing.JList*
+
+%120java.awt.Font2setFont(Ljava/awt/Font;)µ
+≤
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java} }(
+%123javax.swing.JList"__id* *
+gui.SugerenciasGUI"
+list¶£
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java}$ }(9
+%124gui.SugerenciasGUI$1"gui.SugerenciasGUI$1∑
+¥
+n
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java}  ã(
+%125"java.lang.Object#<init>()V*
+
+%124gui.SugerenciasGUI$1€ÿ
+n
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java} ã(
+%126void"Vjavax.swing.JList#addListSelectionListener(Ljavax/swing/event/ListSelectionListener;)V*
+
+%123javax.swing.JList*
+
+%124gui.SugerenciasGUI$12CaddListSelectionListener(Ljavax/swing/event/ListSelectionListener;)∑
+¥
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaå å(
+%127javax.swing.JList"__id* *
+gui.SugerenciasGUI"
+list»
+≈
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaå å($
+%128javax.swing.DefaultListModel"__id*&*$
+gui.SugerenciasGUI"
+
+eventLista†ù
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaå å(
+%129void"4javax.swing.JList#setModel(Ljavax/swing/ListModel;)V*
+
+%127javax.swing.JList*&
+$
+%128javax.swing.DefaultListModel2!setModel(Ljavax/swing/ListModel;)∑
+¥
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaç ç(
+%130javax.swing.JList"__id* *
+gui.SugerenciasGUI"
+listÌÍ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaç ç(
+%131void"#java.awt.Component#setBounds(IIII)V*
+
+%130javax.swing.JList*2
+*2'*2*22setBounds(IIII)Û
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaé é(
+%132java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()∑
+¥
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaé é(
+%133javax.swing.JList"__id* *
+gui.SugerenciasGUI"
+list®•
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaé é(
+%134java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%132java.awt.Container*
+
+%133javax.swing.JList2add(Ljava/awt/Component;)∑
+¥
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaê ê("
+%135javax.swing.JList"__id* *
+gui.SugerenciasGUI"
+listÆ´
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaê ê(
+%136javax.swing.JScrollPane"javax.swing.JScrollPaneÛ
+
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaê ê(#
+%137"5javax.swing.JScrollPane#<init>(Ljava/awt/Component;)V*!
+
+%136javax.swing.JScrollPane*
+
+%135javax.swing.JList¬
+ø
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaê ê(##
+gui.SugerenciasGUI"
+	scrollBar"__id*!
+
+%136javax.swing.JScrollPane¬
+ø
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaë ë(
+%138javax.swing.JScrollPane"__id*%*#
+gui.SugerenciasGUI"
+	scrollBarˆÛ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaë ë((
+%139void"#java.awt.Component#setBounds(IIII)V*!
+
+%138javax.swing.JScrollPane*2*2Æ*2Ê*2Ç2setBounds(IIII)Û
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaí í(
+%140java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()¬
+ø
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaí í( 
+%141javax.swing.JScrollPane"__id*%*#
+gui.SugerenciasGUI"
+	scrollBarÆ´
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaí í(!
+%142java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%140java.awt.Container*!
+
+%141javax.swing.JScrollPane2add(Ljava/awt/Component;)ï
+í
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaî î(= 
+%143java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas¶£
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaî î(P
+%144java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*"
+ 
+%143java.util.ResourceBundle*	
+Event2getString(Ljava/lang/String;)§°
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaî î(
+%145javax.swing.JLabel"javax.swing.JLabelÊ
+„
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaî î(Q
+%146".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%145javax.swing.JLabel*
+
+%144java.lang.Stringº
+π
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaî î(Q"
+gui.SugerenciasGUI"
+
+lblEvent"__id*
+
+%145javax.swing.JLabelº
+π
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaï ï(
+
+%147javax.swing.JLabel"__id*$*"
+gui.SugerenciasGUI"
+
+lblEventè
+å
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaï& ï(0
+%148int"__id*
+""öó
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaï ï(
+%149java.awt.Font"java.awt.Font„
+‡
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaï ï(5
+%150"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%149java.awt.Font*
+
+Tahoma*
+
+%148int*2ÖÇ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaï ï(6
+%151void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%147javax.swing.JLabel*
+
+%149java.awt.Font2setFont(Ljava/awt/Font;)º
+π
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javañ ñ(
+
+%152javax.swing.JLabel"__id*$*"
+gui.SugerenciasGUI"
+
+lblEventÌ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javañ ñ(&
+%153void"#java.awt.Component#setBounds(IIII)V*
+
+%152javax.swing.JLabel*2*2ä*2Ç*22setBounds(IIII)Û
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaó ó(
+%154java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()º
+π
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaó ó(
+%155javax.swing.JLabel"__id*$*"
+gui.SugerenciasGUI"
+
+lblEvent©¶
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaó ó( 
+%156java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%154java.awt.Container*
+
+%155javax.swing.JLabel2add(Ljava/awt/Component;)ø
+º
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaö ö(
+%157javax.swing.JButton"__id*&*$
+gui.SugerenciasGUI"
+
+btnApostar®•
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaö# ö(1
+%158gui.SugerenciasGUI$2"gui.SugerenciasGUI$2∏
+µ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaö †(
+%159"java.lang.Object#<init>()V*
+
+%158gui.SugerenciasGUI$2≈¬
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaö †(
+%160void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%157javax.swing.JButton*
+
+%158gui.SugerenciasGUI$222addActionListener(Ljava/awt/event/ActionListener;)ø
+º
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java° °(
+%161javax.swing.JButton"__id*&*$
+gui.SugerenciasGUI"
+
+btnApostarÒÓ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java° °((
+%162void"#java.awt.Component#setBounds(IIII)V*
+
+%161javax.swing.JButton*2*2ƒ*2å*252setBounds(IIII)Û
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java¢ ¢(
+%163java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()ø
+º
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java¢ ¢(!
+%164javax.swing.JButton"__id*&*$
+gui.SugerenciasGUI"
+
+btnApostar™ß
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java¢ ¢("
+%165java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%163java.awt.Container*
+
+%164javax.swing.JButton2add(Ljava/awt/Component;)ï
+í
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java§ §(> 
+%166java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas¶£
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java§ §(Q
+%167java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*"
+ 
+%166java.util.ResourceBundle*	
+Close2getString(Ljava/lang/String;)¶£
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java§ §(
+%168javax.swing.JButton"javax.swing.JButtonË
+Â
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java§ §(R
+%169"/javax.swing.JButton#<init>(Ljava/lang/String;)V*
+
+%168javax.swing.JButton*
+
+%167java.lang.StringΩ
+∫
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java§ §(R"
+gui.SugerenciasGUI"
+
+btnClose"__id*
+
+%168javax.swing.JButtonΩ
+∫
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java• •(
+
+%170javax.swing.JButton"__id*$*"
+gui.SugerenciasGUI"
+
+btnCloseè
+å
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java•& •(0
+%171int"__id*
+""öó
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java• •(
+%172java.awt.Font"java.awt.Font„
+‡
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java• •(5
+%173"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%172java.awt.Font*
+
+Tahoma*
+
+%171int*2ÜÉ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java• •(6
+%174void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%170javax.swing.JButton*
+
+%172java.awt.Font2setFont(Ljava/awt/Font;)Ω
+∫
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java¶ ¶(
+
+%175javax.swing.JButton"__id*$*"
+gui.SugerenciasGUI"
+
+btnCloseö
+ó
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java¶ ¶($
+%176java.awt.Color"__id*
+""ïí
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java¶ ¶(%
+%177void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%175javax.swing.JButton*
+
+%176java.awt.Color2setForeground(Ljava/awt/Color;)Ω
+∫
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaß ß(
+
+%178javax.swing.JButton"__id*$*"
+gui.SugerenciasGUI"
+
+btnCloseö
+ó
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaß ß((
+%179java.awt.Color"__id*
+""ïí
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaß ß()
+%180void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%178javax.swing.JButton*
+
+%179java.awt.Color2setBackground(Ljava/awt/Color;)Ω
+∫
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java® ®(
+
+%181javax.swing.JButton"__id*$*"
+gui.SugerenciasGUI"
+
+btnClose®•
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java®! ®(/
+%182gui.SugerenciasGUI$3"gui.SugerenciasGUI$3∏
+µ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java® Æ(
+%183"java.lang.Object#<init>()V*
+
+%182gui.SugerenciasGUI$3≈¬
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java® Æ(
+%184void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%181javax.swing.JButton*
+
+%182gui.SugerenciasGUI$322addActionListener(Ljava/awt/event/ActionListener;)Ω
+∫
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaØ Ø(
+
+%185javax.swing.JButton"__id*$*"
+gui.SugerenciasGUI"
+
+btnCloseÚÔ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaØ Ø('
+%186void"#java.awt.Component#setBounds(IIII)V*
+
+%185javax.swing.JButton*2„*2ƒ*2ö*252setBounds(IIII)Û
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java∞ ∞(
+%187java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()Ω
+∫
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java∞ ∞(
+%188javax.swing.JButton"__id*$*"
+gui.SugerenciasGUI"
+
+btnClose™ß
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java∞ ∞( 
+%189java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%187java.awt.Container*
+
+%188javax.swing.JButton2add(Ljava/awt/Component;)ï
+í
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java≤ ≤(@ 
+%190java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas®•
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java≤ ≤(U
+%191java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*"
+ 
+%190java.util.ResourceBundle*	
+Queries2getString(Ljava/lang/String;)§°
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java≤ ≤(
+%192javax.swing.JLabel"javax.swing.JLabelÊ
+„
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java≤ ≤(V
+%193".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%192javax.swing.JLabel*
+
+%191java.lang.Stringø
+º
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java≤ ≤(V%
+gui.SugerenciasGUI"
+lblQuestion"__id*
+
+%192javax.swing.JLabelø
+º
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java≥ ≥(
+%194javax.swing.JLabel"__id*'*%
+gui.SugerenciasGUI"
+lblQuestionè
+å
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java≥) ≥(3
+%195int"__id*
+""öó
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java≥ ≥(
+%196java.awt.Font"java.awt.Font„
+‡
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java≥ ≥(8
+%197"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%196java.awt.Font*
+
+Tahoma*
+
+%195int*2ÖÇ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java≥ ≥(9
+%198void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%194javax.swing.JLabel*
+
+%196java.awt.Font2setFont(Ljava/awt/Font;)ø
+º
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java¥ ¥(
+%199javax.swing.JLabel"__id*'*%
+gui.SugerenciasGUI"
+lblQuestionÔÏ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java¥ ¥((
+%200void"#java.awt.Component#setBounds(IIII)V*
+
+%199javax.swing.JLabel*2*2∫*2Y*22setBounds(IIII)Û
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaµ µ(
+%201java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()ø
+º
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaµ µ("
+%202javax.swing.JLabel"__id*'*%
+gui.SugerenciasGUI"
+lblQuestion©¶
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaµ µ(#
+%203java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%201java.awt.Container*
+
+%202javax.swing.JLabel2add(Ljava/awt/Component;)¡
+æ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java∑ ∑(
+%204javax.swing.JLabel"__id*)*'
+gui.SugerenciasGUI"
+lblErrorQuote⁄◊
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java∑ ∑(!
+%205void"%javax.swing.JComponent#setVisible(Z)V*
+
+%204javax.swing.JLabel*2 2setVisible(Z)¢ü
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaπ π(
+%206javax.swing.JList"javax.swing.JList∂
+≥
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaπ π(
+%207"javax.swing.JList#<init>()V*
+
+%206javax.swing.JListπ
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaπ π( 
+gui.SugerenciasGUI"
+list_1"__id*
+
+%206javax.swing.JListπ
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java∫ ∫(
+%208javax.swing.JList"__id*"* 
+gui.SugerenciasGUI"
+list_1è
+å
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java∫$ ∫(.
+%209int"__id*
+""öó
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java∫ ∫(
+%210java.awt.Font"java.awt.Font„
+‡
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java∫ ∫(3
+%211"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%210java.awt.Font*
+
+Tahoma*
+
+%209int*2ÑÅ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java∫ ∫(4
+%212void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%208javax.swing.JList*
+
+%210java.awt.Font2setFont(Ljava/awt/Font;)π
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaª ª(
+%213javax.swing.JList"__id*"* 
+gui.SugerenciasGUI"
+list_1®•
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaª& ª(;
+%214gui.SugerenciasGUI$4"gui.SugerenciasGUI$4∏
+µ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaª" Õ(
+%215"java.lang.Object#<init>()V*
+
+%214gui.SugerenciasGUI$4‹Ÿ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaª Õ(
+%216void"Vjavax.swing.JList#addListSelectionListener(Ljavax/swing/event/ListSelectionListener;)V*
+
+%213javax.swing.JList*
+
+%214gui.SugerenciasGUI$42CaddListSelectionListener(Ljavax/swing/event/ListSelectionListener;)π
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaŒ Œ(
+%217javax.swing.JList"__id*"* 
+gui.SugerenciasGUI"
+list_1À
+»
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaŒ Œ($
+%218javax.swing.DefaultListModel"__id*)*'
+gui.SugerenciasGUI"
+questionLista†ù
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaŒ Œ( 
+%219void"4javax.swing.JList#setModel(Ljavax/swing/ListModel;)V*
+
+%217javax.swing.JList*&
+$
+%218javax.swing.DefaultListModel2!setModel(Ljavax/swing/ListModel;)π
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaœ œ(
+%220javax.swing.JList"__id*"* 
+gui.SugerenciasGUI"
+list_1ÓÎ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaœ œ(!
+%221void"#java.awt.Component#setBounds(IIII)V*
+
+%220javax.swing.JList*20*2‘*2*22setBounds(IIII)Û
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java– –(
+%222java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()π
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java– –(
+%223javax.swing.JList"__id*"* 
+gui.SugerenciasGUI"
+list_1®•
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java– –(
+%224java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%222java.awt.Container*
+
+%223javax.swing.JList2add(Ljava/awt/Component;)ø
+º
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java“ “(
+%225javax.swing.JButton"__id*&*$
+gui.SugerenciasGUI"
+
+btnApostarﬂ‹
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java“ “(
+%226void")javax.swing.AbstractButton#setEnabled(Z)V*
+
+%225javax.swing.JButton*2 2setEnabled(Z)π
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java”  ”(&
+%227javax.swing.JList"__id*"* 
+gui.SugerenciasGUI"
+list_1Æ´
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java” ”(
+%228javax.swing.JScrollPane"javax.swing.JScrollPaneÛ
+
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java” ”('
+%229"5javax.swing.JScrollPane#<init>(Ljava/awt/Component;)V*!
+
+%228javax.swing.JScrollPane*
+
+%227javax.swing.JListƒ
+¡
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java” ”('%
+gui.SugerenciasGUI"
+scrollBar_1"__id*!
+
+%228javax.swing.JScrollPaneƒ
+¡
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java‘ ‘(
+%230javax.swing.JScrollPane"__id*'*%
+gui.SugerenciasGUI"
+scrollBar_1ˆÛ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java‘ ‘(*
+%231void"#java.awt.Component#setBounds(IIII)V*!
+
+%230javax.swing.JScrollPane*2*2„*2Ê*2ã2setBounds(IIII)Û
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java’ ’(
+%232java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()ƒ
+¡
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java’ ’("
+%233javax.swing.JScrollPane"__id*'*%
+gui.SugerenciasGUI"
+scrollBar_1Æ´
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java’ ’(#
+%234java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%232java.awt.Container*!
+
+%233javax.swing.JScrollPane2add(Ljava/awt/Component;)ï
+í
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java◊ ◊(= 
+%235java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas¶£
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java◊ ◊(P
+%236java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*"
+ 
+%235java.util.ResourceBundle*	
+Quote2getString(Ljava/lang/String;)§°
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java◊ ◊(
+%237javax.swing.JLabel"javax.swing.JLabelÊ
+„
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java◊ ◊(Q
+%238".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%237javax.swing.JLabel*
+
+%236java.lang.Stringº
+π
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java◊ ◊(Q"
+gui.SugerenciasGUI"
+
+lblQuote"__id*
+
+%237javax.swing.JLabelº
+π
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÿ ÿ(
+
+%239javax.swing.JLabel"__id*$*"
+gui.SugerenciasGUI"
+
+lblQuoteè
+å
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÿ& ÿ(0
+%240int"__id*
+""öó
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÿ ÿ(
+%241java.awt.Font"java.awt.Font„
+‡
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÿ ÿ(5
+%242"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%241java.awt.Font*
+
+Tahoma*
+
+%240int*2ÖÇ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÿ ÿ(6
+%243void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%239javax.swing.JLabel*
+
+%241java.awt.Font2setFont(Ljava/awt/Font;)º
+π
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaŸ Ÿ(
+
+%244javax.swing.JLabel"__id*$*"
+gui.SugerenciasGUI"
+
+lblQuoteÔÏ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaŸ Ÿ(%
+%245void"#java.awt.Component#setBounds(IIII)V*
+
+%244javax.swing.JLabel*2*2¯*2Y*22setBounds(IIII)Û
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java⁄ ⁄(
+%246java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()º
+π
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java⁄ ⁄(
+%247javax.swing.JLabel"__id*$*"
+gui.SugerenciasGUI"
+
+lblQuote©¶
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java⁄ ⁄( 
+%248java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%246java.awt.Container*
+
+%247javax.swing.JLabel2add(Ljava/awt/Component;)¢ü
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java‹ ‹(
+%249javax.swing.JList"javax.swing.JList∂
+≥
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java‹ ‹(
+%250"javax.swing.JList#<init>()V*
+
+%249javax.swing.JListπ
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java‹ ‹( 
+gui.SugerenciasGUI"
+list_2"__id*
+
+%249javax.swing.JListπ
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java› ›(
+%251javax.swing.JList"__id*"* 
+gui.SugerenciasGUI"
+list_2è
+å
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java›$ ›(.
+%252int"__id*
+""öó
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java› ›(
+%253java.awt.Font"java.awt.Font„
+‡
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java› ›(3
+%254"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%253java.awt.Font*
+
+Tahoma*
+
+%252int*2ÑÅ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java› ›(4
+%255void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%251javax.swing.JList*
+
+%253java.awt.Font2setFont(Ljava/awt/Font;)π
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaﬁ ﬁ(
+%256javax.swing.JList"__id*"* 
+gui.SugerenciasGUI"
+list_2®•
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaﬁ& ﬁ(;
+%257gui.SugerenciasGUI$5"gui.SugerenciasGUI$5∏
+µ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaﬁ" ‚(
+%258"java.lang.Object#<init>()V*
+
+%257gui.SugerenciasGUI$5‹Ÿ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaﬁ ‚(
+%259void"Vjavax.swing.JList#addListSelectionListener(Ljavax/swing/event/ListSelectionListener;)V*
+
+%256javax.swing.JList*
+
+%257gui.SugerenciasGUI$52CaddListSelectionListener(Ljavax/swing/event/ListSelectionListener;)π
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java„ „(
+%260javax.swing.JList"__id*"* 
+gui.SugerenciasGUI"
+list_2˙˜
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java„ „(
+%261"4javax.swing.JList#setModel(Ljavax/swing/ListModel;)V*
+
+%260javax.swing.JList*
+""2!setModel(Ljavax/swing/ListModel;)π
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java‰ ‰(
+%262javax.swing.JList"__id*"* 
+gui.SugerenciasGUI"
+list_2ÓÎ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.java‰ ‰(!
+%263void"#java.awt.Component#setBounds(IIII)V*
+
+%262javax.swing.JList*2;*2Ë*2*22setBounds(IIII)Û
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÂ Â(
+%264java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()π
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÂ Â(
+%265javax.swing.JList"__id*"* 
+gui.SugerenciasGUI"
+list_2®•
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÂ Â(
+%266java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%264java.awt.Container*
+
+%265javax.swing.JList2add(Ljava/awt/Component;)π
+∂
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÁ  Á(&
+%267javax.swing.JList"__id*"* 
+gui.SugerenciasGUI"
+list_2Æ´
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÁ Á(
+%268javax.swing.JScrollPane"javax.swing.JScrollPaneÛ
+
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÁ Á('
+%269"5javax.swing.JScrollPane#<init>(Ljava/awt/Component;)V*!
+
+%268javax.swing.JScrollPane*
+
+%267javax.swing.JListƒ
+¡
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÁ Á('%
+gui.SugerenciasGUI"
+scrollBar_2"__id*!
+
+%268javax.swing.JScrollPaneƒ
+¡
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaË Ë(
+%270javax.swing.JScrollPane"__id*'*%
+gui.SugerenciasGUI"
+scrollBar_2ˆÛ
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaË Ë(*
+%271void"#java.awt.Component#setBounds(IIII)V*!
+
+%270javax.swing.JScrollPane*2*2†*2Ê*2ç2setBounds(IIII)Û
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÈ È(
+%272java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.SugerenciasGUI2getContentPane()ƒ
+¡
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÈ È("
+%273javax.swing.JScrollPane"__id*'*%
+gui.SugerenciasGUI"
+scrollBar_2Æ´
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÈ È(#
+%274java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%272java.awt.Container*!
+
+%273javax.swing.JScrollPane2add(Ljava/awt/Component;)»
+≈
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÎ Î($
+%275javax.swing.DefaultListModel"__id*&*$
+gui.SugerenciasGUI"
+
+eventListaäá
+o
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/gui/SugerenciasGUI.javaÎ Î("
+%276"<javax.swing.DefaultListModel#addAll(Ljava/util/Collection;)V*&
+$
+%275javax.swing.DefaultListModel*
+""2addAll(Ljava/util/Collection;)*
+0:
+udomain.UserB
+gui.SugerenciasGUI

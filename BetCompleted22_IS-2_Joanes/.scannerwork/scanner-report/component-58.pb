@@ -1,0 +1,1 @@
+: 2javaXÙhr%src/main/java/gui/KuotakIpiniGUI.java

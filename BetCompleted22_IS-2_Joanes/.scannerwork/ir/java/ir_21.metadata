@@ -1,0 +1,1 @@
+dataAccess.DataAccess#findQuestionFromQuote(LQuote;)Ldomain/Question;

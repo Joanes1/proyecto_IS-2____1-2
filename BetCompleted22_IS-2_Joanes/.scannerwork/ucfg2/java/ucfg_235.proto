@@ -1,0 +1,16 @@
+
++domain.Event#getEventDate()Ljava/util/Date;g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Event.javaM M("1*ú
+1g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Event.javaN	 N(©
+¶
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Event.javaN	 N(
+%0java.util.Date"__id**
+domain.Event"
+	eventDate"Å
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Event.javaN N(
+
+%0java.util.DateB
+domain.Event

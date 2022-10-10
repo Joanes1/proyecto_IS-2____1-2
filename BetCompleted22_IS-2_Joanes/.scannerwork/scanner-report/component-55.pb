@@ -1,0 +1,1 @@
+7 2javaXÎhr*src/main/java/gui/GertaerakKopiatuGUI.java

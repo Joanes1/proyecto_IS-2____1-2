@@ -1,0 +1,2 @@
+gui.RegisteredGUI#<init>(Ldomain/User;)V
+gui.RegisteredGUI#initialize()V

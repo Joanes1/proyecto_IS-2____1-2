@@ -1,0 +1,59 @@
+
+,domain.Question#toString()Ljava/lang/String;l
+`C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Question.java³ ³("1*Ê
+1l
+`C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Question.java´	 ´(¹
+¶
+l
+`C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Question.java´	 ´(
+%0java.lang.Integer"__id*'*%
+domain.Question"
+questionNumberµ
+²
+l
+`C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Question.java´	 ´(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;²
+¯
+l
+`C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Question.java´ ´($
+%2java.lang.String"__id*!*
+domain.Question"
+
+questionÇ
+Ä
+l
+`C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Question.java´	 ´($
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String´
+±
+l
+`C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Question.java´	 ´((
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+;×
+Ô
+l
+`C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Question.java´+ ´(F
+%5java.lang.String".java.lang.Double#toString(D)Ljava/lang/String;*"
+java.lang.Double*
+""Ç
+Ä
+l
+`C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Question.java´	 ´(F
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String"ˆ
+l
+`C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Question.java´ ´(G
+
+%6java.lang.StringB
+domain.Question

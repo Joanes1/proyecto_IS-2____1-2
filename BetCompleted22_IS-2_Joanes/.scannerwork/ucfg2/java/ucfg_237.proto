@@ -1,0 +1,37 @@
+
+)domain.Event#toString()Ljava/lang/String;g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Event.java] ]("1*Ë
+1g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Event.java^	 ^(®
+«
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Event.java^	 ^(
+%0java.lang.Integer"__id*!*
+domain.Event"
+eventNumber°
+­
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Event.java^	 ^(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;­
+ª
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Event.java^ ^($
+%2java.lang.String"__id*!*
+domain.Event"
+descriptionÂ
+¿
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Event.java^	 ^($
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String"ƒ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Event.java^ ^(%
+
+%3java.lang.StringB
+domain.Event

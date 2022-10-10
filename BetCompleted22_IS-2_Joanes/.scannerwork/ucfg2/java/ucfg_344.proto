@@ -1,0 +1,54 @@
+
+)domain.Quote#toString()Ljava/lang/String;g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javaY Y("1*ê
+
+1g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javaZ	 Z(ª
+§
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javaZ Z(
+%0java.lang.String"__id**
+domain.Quote"
+
+forecast¸
+µ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javaZ	 Z(
+%1java.lang.String"__concat*
+
+Forecast: *
+
+%0java.lang.String·
+´
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javaZ	 Z(*
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+	; Quote: §
+¤
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javaZ; Z(@
+%3java.lang.Double"__id**
+domain.Quote"
+balioä
+á
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javaZ+ Z(A
+%4java.lang.String".java.lang.Double#toString(D)Ljava/lang/String;*"
+java.lang.Double*
+
+%3java.lang.DoubleÂ
+¿
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javaZ	 Z(A
+%5java.lang.String"__concat*
+
+%2java.lang.String*
+
+%4java.lang.String"ƒ
+g
+]C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Quote.javaZ Z(B
+
+%5java.lang.StringB
+domain.Quote

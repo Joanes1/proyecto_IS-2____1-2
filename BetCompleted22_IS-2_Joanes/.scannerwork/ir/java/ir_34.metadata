@@ -1,0 +1,3 @@
+dataAccess.DataAccess#elkarrizketakLortu(Ldomain/User;)Ljava/util/List;
+null
+java.util.LinkedList#<init>()V

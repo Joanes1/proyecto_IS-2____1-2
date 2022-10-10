@@ -1,0 +1,7 @@
+organization=joanes1
+projectKey=IS-2_proiektua
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.33148
+dashboardUrl=https://sonarcloud.io/dashboard?id=IS-2_proiektua
+ceTaskId=AYO8nR0KzMrdhmGmBKiP
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYO8nR0KzMrdhmGmBKiP

@@ -1,0 +1,3 @@
+businessLogic.BLFacadeImplementation#<init>(LDataAccess;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+configuration.ConfigXML#getInstance()Lconfiguration/ConfigXML;

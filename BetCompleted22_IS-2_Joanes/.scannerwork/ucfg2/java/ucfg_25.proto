@@ -1,0 +1,154 @@
+
+|dataAccess.DataAccess#mezuaBidali(Ldomain/User;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ldomain/Elkarrizketa;)Zr
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaπ	 π	("6*
+2r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java∆	 ∆	( ß§
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java∆	 ∆	(
+%4domain.Elkarrizketa"domain.Elkarrizketa∏
+µ
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java∆		 ∆	(4
+%5"Idomain.Elkarrizketa#<init>(Ljava/lang/String;Ldomain/User;Ldomain/User;)V*
+
+%4domain.Elkarrizketa*
+
+titulojava.lang.String*
+
+igorledomain.User*
+
+	hartzailedomain.User∂
+≥
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java∆	 ∆	(4
+elkdomain.Elkarrizketa"__id*
+
+%4domain.Elkarrizketaòï
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java»	 »	(
+
+%6void"6domain.Message#setElkarrizketa(Ldomain/Elkarrizketa;)V*
+
+mdomain.Message*
+
+elkdomain.Elkarrizketa2&setElkarrizketa(Ldomain/Elkarrizketa;)ôñ
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java…	 …	( 
+
+%7void"4domain.User#addElkarrizketak(Ldomain/Elkarrizketa;)V*
+
+igorledomain.User*
+
+elkdomain.Elkarrizketa2'addElkarrizketak(Ldomain/Elkarrizketa;)úô
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java 	  	(#
+
+%8void"4domain.User#addElkarrizketak(Ldomain/Elkarrizketa;)V*
+
+	hartzailedomain.User*
+
+elkdomain.Elkarrizketa2'addElkarrizketak(Ldomain/Elkarrizketa;)*
+1*≥
+3r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaƒ	
+ ƒ	(êç
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaƒ	& ƒ	(J
+%3java.lang.Integer">domain.Elkarrizketa#getElkarrizketaNumber()Ljava/lang/Integer;*%
+#
+elkarrizketadomain.Elkarrizketa2getElkarrizketaNumber()°
+û
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaƒ	 ƒ	(K
+elkdomain.Elkarrizketa"__id*
+""*
+1*˚
+4r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java¿	 ¿	(ùö
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java¡	 ¡	(
+%1domain.Message"domain.Message¨
+©
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java¡	 ¡	(3
+%2"Ddomain.Message#<init>(Ldomain/User;Ldomain/User;Ljava/lang/String;)V*
+
+%1domain.Message*
+
+igorledomain.User*
+
+	hartzailedomain.User*
+
+testjava.lang.String™
+ß
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java¡	 ¡	(4
+mdomain.Message"__id*
+
+%1domain.Message*
+2
+3*ı
+5r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaæ	
+ æ	("|
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaæ	 æ	(
+""*Ã
+6r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java∫	 ∫	(Â‚
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java∫	$ ∫	(9
+%0java.lang.String"+domain.User#getUsername()Ljava/lang/String;*
+
+igorleadomain.User2getUsername()ú
+ô
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java∫	 ∫	(;
+igorledomain.User"__id*
+""ü
+ú
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaª	 ª	(3
+	hartzailedomain.User"__id*
+""°
+û
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaº	 º	(
+elkdomain.Elkarrizketa"__id*
+""*
+4
+5*†
+1r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaÃ	 Ã	(ÖÇ
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaÃ	 Ã	(
+
+%9void"/domain.Elkarrizketa#addMezua(Ldomain/Message;)V*
+
+elkdomain.Elkarrizketa*
+
+mdomain.Message2addMezua(Ldomain/Message;)èå
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaÕ	 Õ	( 
+%10void"2domain.User#addBidalitakoMezuak(Ldomain/Message;)V*
+
+igorledomain.User*
+
+mdomain.Message2%addBidalitakoMezuak(Ldomain/Message;)éã
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.javaŒ	 Œ	(!
+%11void"0domain.User#addJasotakoMezuak(Ldomain/Message;)V*
+
+	hartzailedomain.User*
+
+mdomain.Message2#addJasotakoMezuak(Ldomain/Message;)"|
+r
+fC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/dataAccess/DataAccess.java–	 –	(
+"":
+igorleadomain.User:
+
+hartzaileajava.lang.String:
+titulojava.lang.String:
+testjava.lang.String:#
+elkarrizketadomain.ElkarrizketaB
+dataAccess.DataAccess

@@ -1,0 +1,16 @@
+gui.AdminGUI#getJContentPane()Ljavax/swing/JPanel;
+gui.AdminGUI#getBoton2()Ljavax/swing/JButton;
+java.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;
+javax.swing.JPanel#<init>()V
+javax.swing.JButton#<init>(Ljava/lang/String;)V
+gui.AdminGUI#getJButtonDesLogin()Ljavax/swing/JButton;
+gui.AdminGUI#getBoton3()Ljavax/swing/JButton;
+javax.swing.JPanel#instance-init#
+gui.AdminGUI#getJButtonEmaitzaIpini()Ljavax/swing/JButton;
+gui.AdminGUI#getBtnNewButton()Ljavax/swing/JButton;
+gui.AdminGUI#getLblNewLabel()Ljavax/swing/JLabel;
+java.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;
+gui.AdminGUI#getBtnNewButton2()Ljavax/swing/JButton;
+gui.AdminGUI#getBtnNewButton1()Ljavax/swing/JButton;
+javax.swing.JButton#instance-init#
+gui.AdminGUI#getBtnGertaerakKopiatu()Ljavax/swing/JButton;

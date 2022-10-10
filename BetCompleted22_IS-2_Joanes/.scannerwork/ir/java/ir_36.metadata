@@ -1,0 +1,5 @@
+dataAccess.DataAccess#mezuaBidali(Ldomain/User;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ldomain/Elkarrizketa;)Z
+domain.Message#instance-init#
+domain.Elkarrizketa#<init>(Ljava/lang/String;Ldomain/User;Ldomain/User;)V
+domain.Elkarrizketa#instance-init#
+domain.Message#<init>(Ldomain/User;Ldomain/User;Ljava/lang/String;)V

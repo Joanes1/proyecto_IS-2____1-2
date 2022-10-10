@@ -1,0 +1,4 @@
+dataAccess.DataAccess#gertaeraEzabatu(Ldomain/Event;)Z
+java.util.Date#<init>()V
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.util.Date#instance-init#

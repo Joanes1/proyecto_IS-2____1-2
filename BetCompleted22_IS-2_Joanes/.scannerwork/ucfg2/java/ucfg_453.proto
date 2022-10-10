@@ -1,0 +1,70 @@
+
+.domain.Apustua#galdutaMarkatu(Ldomain/Quote;)Zi
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaK K("4*Ö
+2i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaM M(ü
+ú
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaM M(
+domain.Apustua"
+egoera"__id*	
+galduta"s
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaN N(
+""*Ì
+3i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaL` L(c‚ﬂ
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaL` L(t
+%3java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+
+quodomain.Quote2getQuoteNumber()®
+•
+j
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaL| L(Å
+%4domain.Quote"__id**
+domain.Apustua"
+kuota‚ﬂ
+j
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaL| L(í
+%5java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+
+%4domain.Quote2getQuoteNumber()ˇ¸
+j
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaL` L(ì
+%6boolean"-java.lang.Integer#equals(Ljava/lang/Object;)Z*
+
+%3java.lang.Integer*
+
+%5java.lang.Integer2equals(Ljava/lang/Object;)*
+2
+1*•
+4i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaL L(
+ß
+§
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaL L(
+
+%0domain.Quote"__id**
+domain.Apustua"
+kuotaøº
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaL L(
+%1"$domain.Quote#getQuestion()LQuestion;*
+
+%0domain.Quote2getQuestion()¿Ω
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaL4 L(E
+%2"$domain.Quote#getQuestion()LQuestion;*
+
+quodomain.Quote2getQuestion()*
+3
+1*„
+1i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaP	 P("s
+i
+_C:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Apustua.javaP P(
+"":
+quodomain.QuoteB
+domain.Apustua

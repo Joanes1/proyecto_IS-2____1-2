@@ -1,0 +1,67 @@
+
+/domain.Transaction#toString()Ljava/lang/String;m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Transaction.javaI I("1*ì
+1m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Transaction.javaJ	 J(°
+­
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Transaction.javaJ J(
+%0java.util.Date"__id* *
+domain.Transaction"
+data¸
+µ
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Transaction.javaJ	 J(
+%1java.lang.String"__concat*
+
+Data: *
+
+%0java.util.Date½
+º
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Transaction.javaJ	 J(+
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+	, dirua: ³
+°
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Transaction.javaJ. J(8
+%3java.lang.Double"__id*!*
+domain.Transaction"
+diruaÈ
+Å
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Transaction.javaJ	 J(8
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Double¼
+¹
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Transaction.javaJ	 J(E
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+
+, mota: ²
+¯
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Transaction.javaJH J(Q
+%6java.lang.String"__id* *
+domain.Transaction"
+motaÈ
+Å
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Transaction.javaJ	 J(Q
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String"‰
+m
+cC:/Users/User/Desktop/IS-proiektua/BetCompleted22_IS-2_Joanes/src/main/java/domain/Transaction.javaJ J(R
+
+%7java.lang.StringB
+domain.Transaction

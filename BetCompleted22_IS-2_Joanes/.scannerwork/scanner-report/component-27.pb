@@ -1,0 +1,1 @@
+ 2javaXÇhr$src/main/java/domain/Registered.java
